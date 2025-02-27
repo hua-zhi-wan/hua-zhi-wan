@@ -1,4 +1,4 @@
-## [`GET SOMETHING AWESOME HERE`](https://a.huazhiwan.xyz)
+## [`GET SOMETHING AWESOME HERE`](https://a.huazhiwan.top)
 
 ![hua-zhi-wan's Github Stats](https://github-readme-stats-timothy-liuxf.vercel.app/api?username=hua-zhi-wan&show_icons=true&count_private=true)
 
